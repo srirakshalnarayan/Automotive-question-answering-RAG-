@@ -1,0 +1,17 @@
+SOURCE 1
+Question: How does the Sky Red Line's engine achieve its high specific horsepower, and what are the implications for fuel efficiency?
+Answer: The Sky Red Line's engine achieves its high specific horsepower through the use of a direct-injection engine, which provides a more complete burn of fuel. This results in 260 hp @ 5,300 rpm and 260 lb-ft of torque at 2,500 rpm, making it GM's highest specific horsepower engine ever. The implications for fuel efficiency are that the engine can achieve the same amount of horsepower with less fuel, resulting in improved fuel economy.
+Relevance score: -5.1194
+----------------------------------------------------------------------
+
+SOURCE 2
+Question: What are the differences between gross horsepower and net horsepower, and how do these measurements affect the way we understand an engine's power output?
+Answer: Gross horsepower is a measurement of an engine's power output at the flywheel, without the engine installed in a vehicle, and without any accessories or parasitic losses. Net horsepower, also known as base horsepower, is a measurement of an engine's power output with the engine installed in a vehicle, and with all accessories and parasitic losses taken into account. The LT-1 engine's power output was originally rated at 370 gross horsepower, but was later rated at 255 net horsepower, reflecting the power lost to accessories and parasitic losses. This change in measurement methodology affects the way we understand an engine's power output, as it provides a more realistic representation of the engine's power output in a real-world driving scenario.
+Relevance score: -5.4729
+----------------------------------------------------------------------
+
+SOURCE 3
+Question: How does the 500e's electric motor compare to other electric vehicles in terms of horsepower and range?
+Answer: The 500e's electric motor has 111 horsepower and a range of 80 miles on a single charge, with driving range exceeding 100 miles in the city. This is comparable to other electric vehicles on the market, such as the Nissan Leaf, which has a range of 73 miles on a single charge.
+Relevance score: -6.2860
+----------------------------------------------------------------------

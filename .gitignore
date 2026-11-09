@@ -1,0 +1,26 @@
+# Python environments
+venv/
+venv312/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.log
+.DS_Store
+test_env.py
+
+# IDE settings
+.vscode/
+
+# Large generated datasets
+dataset/raw/automotive_dataset.jsonl
+dataset/processed/automotive_pos_tagged.csv
+dataset/processed/automotive_stemmed_lemmatized.csv
+dataset/processed/automotive_tokenized_qa.csv
+
+# Python environments
+venv/
+venv312/

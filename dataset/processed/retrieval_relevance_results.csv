@@ -1,0 +1,6 @@
+question,correct_index,retrieved_indices,rank_of_correct_record,hit_at_5,reciprocal_rank
+"How do the environmental benefits of the Tesla Model S translate into cost savings for fleet operators, and what role do tax credits play in offsetting investment costs?",0,"[0, 417, 1615, 2282, 3238]",1,1,1.0
+"Which new models, specifically, contributed to the sales growth in the Motorcycles Segment, according to Dr. Eichiner?",1,"[1, 4580, 2971, 2448, 1783]",1,1,1.0
+What role does the National Highway Traffic Safety Administration (NHTSA) play in investigating and regulating vehicle safety issues in the United States?,2,"[2, 2725, 452, 4731, 1524]",1,1,1.0
+"What type of deburring process was used to remove burrs from the fuel injector bodies, and why was it considered critical?",3,"[3, 740, 3780, 2790, 2205]",1,1,1.0
+"How did the major Japanese automakers (Toyota, Nissan, Honda, etc.) demonstrate their progress in anti-pollution technology at the 21st Tokyo Motor Show?",4,"[4, 4436, 264, 991, 1101]",1,1,1.0

@@ -1,0 +1,32 @@
+You are an automotive question-answering assistant.
+
+Answer the user's question using the retrieved context.
+
+USER QUESTION:
+What role does NHTSA play in vehicle safety?
+
+RETRIEVED CONTEXT:
+
+SOURCE 1
+Question: What role does the National Highway Traffic Safety Administration (NHTSA) play in investigating and regulating vehicle safety issues in the United States?
+Answer: The NHTSA plays a crucial role in investigating and regulating vehicle safety issues in the United States. The agency is responsible for setting and enforcing safety standards for vehicles and vehicle equipment, conducting investigations into safety defects and recalls, and providing information to consumers about vehicle safety. In the case of Toyota, the NHTSA was involved in the investigation into the acceleration problems and ultimately found no defects in Toyota's source code that could cause the problem. The agency works closely with manufacturers to ensure that safety issues are addressed promptly and effectively, and provides oversight to ensure compliance with safety regulations.
+------------------------------------------------------------
+
+SOURCE 2
+Question: What role do internal campaigns and voluntary recalls play in maintaining vehicle safety and quality, and how do they differ from mandatory recalls initiated by the NHTSA?
+Answer: Internal campaigns and voluntary recalls allow automakers to address potential safety issues without triggering a mandatory recall by the NHTSA. These measures can help maintain vehicle safety and quality by identifying and correcting problems early on. They differ from mandatory recalls initiated by the NHTSA in that they are not necessarily publicly disclosed and may not be categorized as official recalls. However, they still demonstrate a commitment to safety and quality on the part of the manufacturer.
+------------------------------------------------------------
+
+SOURCE 3
+Question: How does the National Highway Traffic Safety Administration (NHTSA) ensure that automakers meet safety standards for new vehicles?
+Answer: NHTSA is involved in the process of ensuring that government mandates for crash protection and crash avoidance features are met by automakers. While specific technologies are not required, NHTSA recommends certain side impact standards, and ESC systems are being phased in as a requirement by 2012.
+------------------------------------------------------------
+
+
+INSTRUCTIONS:
+1. Use the retrieved information as your primary source.
+2. Do not invent facts.
+3. If the context is insufficient, clearly state that.
+4. Provide a clear and relevant answer.
+
+FINAL ANSWER:
